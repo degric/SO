@@ -1,0 +1,2 @@
+Los sistemas operativos son softwares que comunican a los componentes de hardware con el 
+usuario, ademas de ofrecer aplicaciones de software y de utilidades.
